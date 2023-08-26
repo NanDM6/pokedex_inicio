@@ -25,10 +25,12 @@ O Pokédex Web App é uma aplicação web simples que permite aos usuários expl
 
 ```bash
 git clone https://github.com/NanDM6/pokedex_inicio.git
+```
 
-2. Abra o projeto e utilize o comando:
+2. Abra o projeto e utilize o seguinte comando para iniciar um servidor local:
 
 ```bash
 http-server -c-1
+```
 
-Para inicializar o servidor web local que não permite que o navegador faça cache dos arquivos, garantindo que as alterações recentes sejam sempre carregadas durante o desenvolvimento de um site ou aplicativo da web.
+Isso irá inicializar o servidor web local que não permite que o navegador faça cache dos arquivos, garantindo que as alterações recentes sejam sempre carregadas durante o desenvolvimento de um site ou aplicativo da web.
